@@ -46,7 +46,13 @@ img {
    height: 296;/* spécifiez la hauteur de l'image, une bonne attitude à prendre */
    width: 486px; /* spécifiez la largeur de l'image, une bonne habitude à prendre */
  }
+ .orthophoniste {
+   width: 700px;
+   height: auto;
+
+    }
  footer{
    font-size: 12px;
    font-family : 'BodoniXT';
    text-align: center;
+ }
