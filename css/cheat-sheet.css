@@ -13,17 +13,17 @@
 
 /* Header */
 h1{
-   font-size: 130px;
+   font-size: 8.125em;
    font-family: 'BodoniXT';
    text-align: center;
    }
 h3{
-  font-size: 60px;
+  font-size: 3.750em;
   font-family : 'Daydreamer';
   text-align : center;
   }
 h2{
-  font-size: 50px;
+  font-size: 3.125em;
   font-family : 'Daydreamer';
   font-weight : bold;
   text-align : center;
@@ -32,22 +32,19 @@ h2{
 /* Section */
 
   section {
-  padding: 5px 20px;
+  padding: 0.313em 1.250em;
   margin: auto;
-  width: 800px;
-  height: auto;
+  width: 50.000em;
   background-color: white;
   }
   p{
-    font-size: 34px;
+    font-size: 2.125em;
     font-family : 'Daydreamer';
     text-align : center;
    }
 
 /* pictures */
 img {
-   display: block;
-   margin: 0 auto;
    width: 90%;
  }
  #orthophoniste {
