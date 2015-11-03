@@ -10,7 +10,7 @@
 
    font-family : 'Daydreamer';
    src : url('Daydreamer - copie.tff');
-}
+ }
 section {
   padding: 5px 20px;
   margin: auto;
@@ -43,14 +43,13 @@ p{
 img {
    display: block;
    margin: 0 auto;
-   height: 296;/* spécifiez la hauteur de l'image, une bonne attitude à prendre */
-   width: 486px; /* spécifiez la largeur de l'image, une bonne habitude à prendre */
+   width: 90%; 
  }
- .orthophoniste {
-   width: 700px;
-   height: auto;
+ #orthophoniste {
+   width: 80%;
 
-    }
+}
+
  footer{
    font-size: 12px;
    font-family : 'BodoniXT';
