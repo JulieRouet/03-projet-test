@@ -32,7 +32,7 @@ h2{
 /* Section */
 
   section {
-  padding: 0.313em 1.250em;
+  padding: 1% 2%;
   margin: auto;
   width: 50.000em;
   background-color: white;
@@ -50,3 +50,6 @@ img {
  #orthophoniste {
    width: 80%;
 }
+
+/* Médias querys */
+@medias 
