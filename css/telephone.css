@@ -1,5 +1,4 @@
 @media screen {
-/* Typo */
 @font - face {
    font-family : 'BodoniXT';
    src : url('BodoniXT.ttf');
@@ -12,19 +11,26 @@
 
 
 /* Header */
-h1{
-   font-size: 8.125em;
-   font-family: 'BodoniXT';
-   text-align: center;
-   }
-h3{
-  font-size: 3.750em;
-  font-family : 'Daydreamer';
-  text-align : center;
-  }
+h1  {
+  color: #ff7cf4;
+  text-align: center;
+  font-size: 3.000em;
+  font-family : "BodoniXT";
+}
+
+
+/* balises H */
+
+h3 {
+  font-size: 1.2em;
+  font-family : "BodonieXT";
+  font-weight: normal;
+  text-align: center;
+}
+
 h2{
-  font-size: 3.125em;
-  font-family : 'Daydreamer';
+  font-size: 2em;
+  font-family : 'Times';
   font-weight : bold;
   text-align : center;
 }
@@ -34,12 +40,12 @@ h2{
   section {
   padding: 1% 2%;
   margin: auto;
-  width: 50.000em;
+  width: 70%;
   background-color: white;
   }
   p{
-    font-size: 2.125em;
-    font-family : 'Daydreamer';
+    font-size: 1em;
+    font-family : 'Times';
     text-align : center;
    }
 
